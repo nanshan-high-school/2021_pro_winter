@@ -148,6 +148,7 @@ int decoding() {
                 }
             }
             if (gate) {
+		code.push_back(-1);
                 decode_.clear();
                 break;
             }
