@@ -4,3 +4,4 @@
 ## 結果
 
 2021/2/6 snorlaxallan_code11_lv.2 26%  
+2021/2/9 snorlaxallan_code11_lv.2_2.0 same  
