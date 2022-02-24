@@ -29,6 +29,9 @@ int main() {
             break;
         }
         type();
+	if (code_type_or_not) {
+            continue;        
+        }
         if (n % 6 != 0) {
             code.push_back(-1);
             continue;
@@ -72,6 +75,11 @@ int type(){
             cin >> num;
             for (int j = 0 ; j < 5; j++) {
                 cin >> num;
+		if (num != 0) {
+		    code.push_back(-1);
+		    code_type_or_not = true;
+		    return 0;
+		}
                 zero_and_one.push_back(num);
             }
         } else {
