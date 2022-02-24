@@ -4,4 +4,5 @@
 
 ## 高分榜
 Level 3 100% 2021/01/28 269Seahorse  
+Level 2 084% 2021/02/24 jifong  
 Level 2 026% 2021/02/06 allan28944
