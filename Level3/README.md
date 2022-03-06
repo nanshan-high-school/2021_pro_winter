@@ -8,3 +8,4 @@
 2022/1/15 269seahorse-barcode-v3 55%  
 2022/1/15 269seahorse-barcode-v2 95%  
 2022/1/14 269Seahorse-barcode 65%  
+2022/3/ 6 jackie 明顯錯誤  
